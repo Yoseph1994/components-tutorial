@@ -25,7 +25,7 @@ export default function page() {
               <input
                 type="email"
                 placeholder="Enter your email"
-                className="rounded-lg p-2"
+                className="rounded-lg p-2 px-2"
               />
               <button
                 type="submit"
